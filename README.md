@@ -27,7 +27,8 @@ npm run lint
 ```
 ### 用了哪些技术
 ```
-框架用了element-ui 
+VUE
+element-ui 
 ajax请求
 scss
 echarts图表库
